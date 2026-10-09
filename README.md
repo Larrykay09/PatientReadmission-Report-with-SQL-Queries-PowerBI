@@ -1,6 +1,6 @@
 # PatientReadmission-Report-with-SQL-Queries-PowerBI
 ## Overview
-The repository contains sql queries and powerBI documenation for analyzing patient readmission rate dataset. The dataset includes information about patient diagnosis, length of stay days, chronic conditions, discharge type, medication count, follow up scheduled, insurance type, readmitted within 30 days and risk score.
+The repository contains sql queries and power BI documentation for analyzing patient readmission rate dataset. The dataset includes information about patient diagnosis, length of stay days, chronic conditions, discharge type, medication count, follow up scheduled, insurance type, readmitted within 30 days and risk score.
 
 ## Project Objectives
 
